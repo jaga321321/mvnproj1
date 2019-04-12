@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>DEVOPS</groupId>
     <artifactId>ANSIBLE</artifactId>
-    <version>7.02</version>
+    <version>1.02</version>
     <packaging>war</packaging>
     <name>myproj</name>
     <properties>
@@ -13,7 +13,7 @@
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
-            <version>1.0</version>
+            <version>7.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
